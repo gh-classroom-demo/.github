@@ -3,7 +3,7 @@ name: Documentation Change Request
 about: Create a report to help us improve
 title: "[Documentation Issue] - "
 labels: documentation
-assignees: 'ryancdavison, DigiPen-CS315/instructors'
+assignees: 'ryancdavison, digipen-core-cs-config/instructors'
 
 ---
 
