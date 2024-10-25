@@ -13,15 +13,15 @@
 
 
 # Global rule:
-*                               @DigiPen-digipen-core-cs-config/tas @DigiPen-digipen-core-cs-config/instructors
+*                               @digipen-core-cs-config/tas @digipen-core-cs-config/instructors
 
 
 # Other examples:
 
 # documentation folder
-# /art/                         @DigiPen-digipen-core-cs-config/art-reviewers-team  @art-lead-username
+# /art/                         @digipen-core-cs-config/art-reviewers-team  @art-lead-username
 
 # scripts folders with nested folder override example
-# /scripts/                     @DigiPen-digipen-core-cs-config/dev-leads-team
+# /scripts/                     @digipen-core-cs-config/dev-leads-team
 # /sripts/another/folder/       @another-dev-lead-username
 # /sripts/a/different/folder/   @different-dev-lead-username
