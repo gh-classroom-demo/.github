@@ -23,5 +23,5 @@
 
 # scripts folders with nested folder override example
 # /scripts/                     @DigiPen-Demo/dev-leads-team
-# /sripts/another/folder/       @another-dev-lead-username
-# /sripts/a/different/folder/   @different-dev-lead-username
+# /scripts/another/folder/       @another-dev-lead-username
+# /scripts/a/different/folder/   @different-dev-lead-username
